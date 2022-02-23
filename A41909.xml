@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great news from Derby-shire being a full and true relation of the discovery of above thirty priests living and residing in and about Halam in the said county : together with an account of the taking of one Busby, a priest, and two women, notorious papists, by Justice Gilbert, a worthy and active prosecutor of priests and Jesuits, and how they had contrived to charge Mr. Gilbert with felony, which by the confession of Dudley, one of their own party, by the providence of God was fully detected and discovered and they committed to the county-gaol where they now remain / written in a letter from a worthy divine in that county, to a friend in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41909</idno>
+            <idno type="STC">Wing G1717</idno>
+            <idno type="STC">ESTC R36558</idno>
+            <idno type="EEBO-CITATION">15725057</idno>
+            <idno type="OCLC">ocm 15725057</idno>
+            <idno type="VID">104536</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41909)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104536)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1593:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great news from Derby-shire being a full and true relation of the discovery of above thirty priests living and residing in and about Halam in the said county : together with an account of the taking of one Busby, a priest, and two women, notorious papists, by Justice Gilbert, a worthy and active prosecutor of priests and Jesuits, and how they had contrived to charge Mr. Gilbert with felony, which by the confession of Dudley, one of their own party, by the providence of God was fully detected and discovered and they committed to the county-gaol where they now remain / written in a letter from a worthy divine in that county, to a friend in London.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Janeway ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  England.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104536:1"/>
+            <pb facs="tcp:104536:1" rendition="simple:additions"/>
+            <head>GREAT NEWS FROM Derbyſhire: Being a Full and True RELATION OF THE DISCOVERY OF Above Thirty Prieſts, Living and Reſiding in and about <hi>Ha<g ref="char:EOLhyphen"/>lam,</hi> in the ſaid County. TOGETHER With an account of the taking of one <hi>Busby</hi> a Prieſt, and two Women, no<g ref="char:EOLhyphen"/>torious Papiſts, by Juſtice <hi>Gilbert,</hi> a worthy and active Proſecutor of Prieſts and Jeſuits; and how they had contrived to Charge Mr. <hi>Gilbert</hi> with Felony, which by the Confeſſion of <hi>Dudley,</hi> one of their own Par<g ref="char:EOLhyphen"/>ty, by the Providence of God, was fully detected and diſcovered, and they committed to the County-Gaol, where they now remain.</head>
+            <head type="sub">Written in a Letter from a worthy Divine in that County, to a Friend in <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Cannot but acknowledg my neglect, by ſo long a ſilence, ſince I re<g ref="char:EOLhyphen"/>ceived your laſt; but yet I doubt not of a pardon from ſo candid and ingenuous a Nature; when I ſhall acquaint you, that partly Buſi<g ref="char:EOLhyphen"/>neſs, and partly want of ſomething new, wherewith to divert you, from theſe parts, did occaſion it. But having now an opportunity in ſome meaſure to make you Reparation, I reſolved not to let ſlip a Re<g ref="char:EOLhyphen"/>lation, which, at preſent, is the Subject of our whole Diſcourſe in theſe parts, and which is this.</p>
+            <p>There was, the laſt Week, a Meeting of the Juſtices of the Peace here<g ref="char:EOLhyphen"/>abouts, to conſider of an Information which was exhibited before them, againſt one <hi>Busby</hi> a Romiſh Prieſt, who they underſtood was entertained and harboured at the Houſe of one Mr. <hi>Pouthrel,</hi> of <hi>Halam,</hi> in this County, a notorious and obſtinate Papiſt; after whom Mr. <hi>Gilbert</hi> (a Juſtice of the
+<pb facs="tcp:104536:2"/>Peace, a worthy good Proteſtant, and zealouſly active againſt thoſe of the Church of <hi>Rome</hi>) had ſeveral times ſearched at the ſaid Mr. <hi>Pouthrel</hi>'s houſe, but to no effect; till at length (whether by ſome private Intelligence, or mere accident, I know not) he diſcovered him hid between the Cieling and the Tyles of the Houſe in a Garret, Mr. <hi>Pouthnel</hi> himſelf being at that in<g ref="char:EOLhyphen"/>ſtant abſent from home; nor indeed had he been there for ſome conſidera<g ref="char:EOLhyphen"/>ble time paſt, leaving only a Houſekeeper, who in the nature of a Steward, managed his Eſtate; with an under Bayliff named <hi>Dudley,</hi> and two Women, who were all noted Papiſts: eſpecially one of the Females, who is, or at leaſt pretends to be, miſſioned from his Un-holineſs.</p>
+            <p>A few days after <hi>Busby</hi> was taken, <hi>Dudley,</hi> and the two Women, were alſo Apprehended, and brought before Juſtice <hi>Gilbert;</hi> who laying open the Law to <hi>Dudley,</hi> told him, that he was not only liable to be impriſoned, but to be Indicted alſo; and that the matter of Fact being ſo evident, he had certainly forfeited his Life by entertaining and harbouring the ſaid Prieſt, which was death by the Statute. This wrought ſo effectually upon <hi>Dudley,</hi> who had not as yet entertained any thoughts of being Sainted, that he freely confeſſed to the Juſtice, That his Maſter <hi>Pouthrel</hi> did, after an extraordinary manner, receive and protect the Prieſts of <hi>Rome;</hi> telling him that at one time, and in one and the ſame place, there met together no leſs than thirty of them, the greateſt part of whom he knew, as having ſeen them at ſeveral times at his Maſters houſe: Moreover, affirming that one of the women who were taken with him, was in ſome kind of Orders, the nature whereof he could not tell, neither what ſhe was; only he had obſerved her to Baptize Children. Mr. <hi>Gilbert</hi> then further encouraged him by all the mild and plauſible perſwaſions imaginable, aſſuring him of all the favour and friendſhip that could be expected from ſo ingenuous a Confeſſion. And now Sir, do but obſerve the damnable and wicked con<g ref="char:EOLhyphen"/>trivance of this accurſed Crew: For <hi>Dudley</hi> gathering more aſſurance from the mild behaviour and hearty promiſes of the Juſtice, proceeds to declare: That they had conſpired amongſt themſelves, to Accuſe Mr. <hi>Gilbert,</hi> the Juſtice of the Peace, that when he ſearched the Houſe, he had taken from thence a Bag of Eighty Pounds in money, and that he carried it away with him; threatning withal to Indict him upon a Robbery for the ſame. But it appearing that there was no ſuch money loſt, altho' they did impudently charge it upon this worthy and active Gentleman; Mr. <hi>Dudley,</hi> as a recom<g ref="char:EOLhyphen"/>pence for this great diſcovery, was diſcharged and ſet at liberty, the reſt were ſent to the County-Gaol, where they remain to be Tryed at the next Aſſizes. Thus Sir, I have given you a true and impartial Relation, and which I hope, hath in ſome meaſure diſcharged that Obligation incumbent upon me: I ſhall now leave you to make your own Remarks upon the pro<g ref="char:EOLhyphen"/>ceedings of this ſort of people, who notwithſtanding all the dangers and difficulties they meet with from the Conſtitution of our Laws and Govern<g ref="char:EOLhyphen"/>ment, ſhall yet be be ſo audacious, as even in the heart of the Kingdom to affront them both, which makes me apt to believe there is ſome greater en<g ref="char:EOLhyphen"/>couragement in the bottom of their deſign, than as yet the world is either capable of knowing, or willing to be undeceived in.</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>I am yours in all Hearty Affection.</signed>
+               <dateline>From <hi>Halam</hi> in <hi>Der<g ref="char:EOLhyphen"/>byſhire,</hi> 
+                  <date>
+                     <hi>June 4th.</hi> 1681.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Janeway,</hi> in <hi>Queens-Head-Ally</hi> in <hi>Pater-noſter-Row.</hi> 1681.</p>
+            <pb facs="tcp:104536:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
